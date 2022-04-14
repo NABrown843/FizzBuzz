@@ -5,6 +5,26 @@
     --white-color: #e7e7e7;
 }
 
+.number{
+    font-weight: 100;
+}
+
+.fizz{
+    font-weight: 100;
+    color: green;
+}
+
+.buzz{
+    font-weight: 100;
+    color: var(--primary-color);
+}
+
+.fizzbuzz{
+    font-weight: bold;
+    font-size: large;
+    color: red;
+}
+
 body {
     color: var(--dark-color);
 }
